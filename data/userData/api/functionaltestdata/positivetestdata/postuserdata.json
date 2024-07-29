@@ -1,0 +1,17 @@
+{
+  "testcasename": "Post User api",
+  "postusrrequest": {
+    "name": "Tenali Ramakrishna",
+    "gender": "male",
+    "email": "2tenali.ramakrishna@15ce.com",
+    "status": "active"
+  },
+  "postuserresponse": {
+    "id": 7169199,
+    "name": "Tenali Ramakrishna",
+    "email": "2tenali.ramakrishna@15ce.com",
+    "gender": "male",
+    "status": "active"
+  },
+  "statuscode": 201
+}

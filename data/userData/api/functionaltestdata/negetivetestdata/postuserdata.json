@@ -1,0 +1,11 @@
+{
+  "testcasename": "Post User api",
+  "postusrrequest": {
+    "name": "Tenali Ramakrishna",
+    "gender": "male",
+    "status": "active"
+  },
+  "postuserresponse": {
+  },
+  "statuscode": 422
+}
